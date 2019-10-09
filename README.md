@@ -7,10 +7,12 @@ Key featuresFreeFileSync is a folder comparison and synchronization software tha
 FreeFileSync
 #Quick Start
 — Folder Comparison and Synchronization —
+
 Basic usage:
 Choose left and right folders.
 Choose left and right directories
  
+
 Compare them.
 Start comparison
  
